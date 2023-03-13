@@ -1,0 +1,25 @@
+Phill Reed and students/CRCAO-KU observed a full transit on 20211107 in CLEAR and detected a 44 min (0.2 σ) late ~11 ppt event on the target using an uncontaminated 9.3" target aperture, which is consistent with the KeplerCam result on 20211014. 
+
+Aperture radius = 9.3"
+Typical FWHM = 4.6"
+Predicted Tc = 9525.6227
+Measured Tc = 9525.6233
+
+
+TTF (at time of observation):  QLP S18 PC: found in faint-star QLP search;  Confirm event on target and/or check field for NEBs within 2.5' using a red (rp, R, ip, I, z) filter.
+
+TTF (current): QLP S18 VPC: [P=2.95972] found in faint-star QLP search; Allyson Bieryla observed a nominal full on 20211014 in KeplerCam ip and detected an ~45 min (0.2σ) late ~10 ppt event in an uncontaminated 3.4" target aperture. [P=2.95985] The next observation should be a high precision (<1.0 ppt/5 min) full transit in a blue (U, u', B, g') filter to check chromaticity. Multi-band observations preferred. 
+
+
+Observing notes:
+Student Observers = Kiara Mayers, Zachary Raup
+Nexp = 128
+Texp = 180 sec
+Weather = clear
+max_dev_X = 6.4 pix
+max_dev_Y = 1.4 pix
+Coverage = Full (-113/+142 min)
+
+All data files, including a data subset for joint fitting, have been uploaded to ExoFOP-TESS.
+
+

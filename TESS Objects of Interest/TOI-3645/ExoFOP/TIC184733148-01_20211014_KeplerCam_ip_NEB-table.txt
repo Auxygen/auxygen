@@ -1,0 +1,50 @@
+                       TFOP NEB Search Table for:
+
+           2021_measurements.tbl
+
+                 Created by AIJ macro Revision 2.25
+                          on 2021-10-30
+          ------------------------------------------------
+                    Pixel Scale (arc-seconds/pixel): 0.67
+                    Predicted ingress time: 0.89060001
+                    Predicted egress time:  0.99920000
+                    Target predicted depth: 11.9
+                    Target Star: T1
+                    Search Radius: 2.5
+                    Duration of Observation (min.): 267.6
+                    Number of Images: 304
+                    Average Exposure Plus Delay Time (sec.): 52.8
+                    Cadence Requested When Calculating RMS (sec.): 180.0
+                    Binning Used When Calculating RMS: 3
+                    Average Aperture Radius: 5.0 (pixels); 3.4 (arc-seconds)
+                    Dmag correction factor to account for difference with TESS band:-0.5
+
+      Separation             Uncorr.
+Star  from target  PA (deg.)  dmag   RMS(ppt)  NEBdepth(ppt)  NEBdepth/RMS    Disposition
+ T2      0'29"       NA      2.421      3.71           69.8      18.8      Cleared
+ T3      0'46"       NA      4.257     14.48          378.8      26.2      Cleared
+ T4      1'07"       NA     -0.115      1.07            6.8       6.3      Cleared
+ T5      1'18"       NA      3.167     10.41          138.8      13.3      Cleared
+ T6      1'34"       NA      4.499     22.89          473.5      20.7      Cleared
+ T7      1'34"       NA      5.142     35.66          855.8      24.0      Cleared
+ T8      1'39"       NA      4.405     18.58          434.2      23.4      Cleared
+ T9      1'42"       NA      2.524      4.11           76.8      18.7      Cleared
+T10      1'43"       NA      5.194     39.28          897.9      22.9      Cleared
+T11      1'51"       NA      3.098      8.72          130.2      14.9      Cleared
+T12      2'03"       NA      3.472      8.29          183.9      22.2      Cleared
+T13      2'12"       NA     -0.520      1.12            4.7       4.1      Likely cleared
+T14      2'18"       NA      4.551     23.48          496.7      21.2      Cleared
+T15      2'19"       NA      1.979      3.00           46.5      15.5      Cleared
+T16      2'26"       NA      4.727     30.52          583.9      19.1      Cleared
+T17      2'28"       NA      2.008     10.20           47.7       4.7      Likely cleared
+
+Possible dispositions of the star being the source of the target predicted depth:
+   Likely cleared (NEBdepth/RMS is between 3 and 5)
+   Cleared (NEBdepth/RMS is >= 5)
+   Cleared-too faint (NEBdepth >= 1000ppt)
+   ***Not Cleared-flux too low*** (weighted average of Source-Sky counts per aperture pixel < 2)
+   ***Not Cleared*** (none of the above conditions are met)
+
+Image shift statistics:
+             stdev.(arc-seconds): 0.4849 in X and 0.4652 in Y
+             max. deviation (pixels): 3.2306 in X and 2.9471 in Y
