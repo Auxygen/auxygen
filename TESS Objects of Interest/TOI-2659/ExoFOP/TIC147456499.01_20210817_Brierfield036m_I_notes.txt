@@ -1,0 +1,39 @@
+
+Hi Karen 
+
+Don Radford observed a full on 20210817 in R and detected a on time 24 ppt event in an uncontaminated 8.8" target aperture.
+
+A full  transit of TIC 147456499.01 TOI 2659.01 in the R filter, was performed on 17/08/2021 in a 8.8  arcsec uncontaminated aperture, showing a 6 minute early  on target 24 ppt transit (Tess predicted 22.3 ppt).
+
+Transit Duration was 123.8 mins (Tess Pdt. 108 mins) 4 σ longer than predicted.
+
+Measured Tc was at 2459444.124163094.  Predicted Tc was = 9444.1248  ( ie mid transit 9 mins early)
+
+A NEB check was performed on the 2 other Gaia stars. All were formally cleared.
+
+Imaging was performed over at total of 416.5 mins. 
+  
+The Comments in TTF were "QLP S30 PC: found in faint-star QLP search; Confirm event on target and/or check field for NEBs within 2.5' using a red (rp, R, ip, I, z) filter."
+
+1. Subject line “TIC 147456499.01 TOI 2659.01 on 2021.8.17 at Brierfield0.36m in R filter “
+
+2. Uploaded to ExoFOP-Tess.
+
+*130 x 180 sec exposures Bin 2x2 FWHM was 3.48 pixels or  5.11 arcsec 
+
+*No Detrend Parameter was used 
+
+Image shift statistics:
+             stdev.(arc-seconds): 1.5191 in X and 0.2274 in Y
+             max. deviation (pixels): 4.2261 in X and 1.2805 in Y
+
+Cheers
+
+Don Radford
+
+
+
+
+
+
+

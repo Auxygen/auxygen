@@ -1,0 +1,53 @@
+TIC147456499.01 (TOI-2659.01) on UT20210806 from LCO-CTIO-0m4 in ip
+
+TIC147456499.01 (TOI-2659.01) on UT20210806 from LCO-CTIO-0m4 in ip_Notes.txt
+
+Howie Relles/LCO-CTIO-0m4 analyzed full on 20210806 in ip and detected a 11.1 min. early, 34.7 ppt depth transit in an uncontaminated 23.4" target aperture.
+
+APERTURE RADIUS: 23.4" (41 px).*
+TYPICAL FWHM: 38.77"
+PREDICTED Tc: 9432.8219
+MEASURED Tc:  9432.8142 (11.1 min. early)
+NEBCHECK: Only 2 Gaia stars within 2.50' of target...very sparsely populated area of celestial sphere.
+COMMENTS: 2 Not Cleared-Flux Too Low.
+
+GOAL(S): full-only multi-band or alternating filter high precision (<1.0 ppt/5 min) data in at least blue *and* very red filter to refine the check on chromaticity.
+
+PREDICTED DEPTH: 22.3 ppt
+MEASURED DEPTH:  34.7 ppt
+RMS OF MODEL FIT: 11.77 ppt; 5.34 ppt/10 min.
+(Rp/R*)^2 = 0.0326
+PREDICTED DURATION: 108 min.
+MEASURED DURATION: 112 min
+
+DETRENDING PARAMETER(S): Peak_T1
+                  
+USER-SPECIFIED PARAMETERS
+   Source: ExoFOP-TESS & Gaia Data
+   P: 1.26 days
+   R*/Rsun: 0.8755
+
+PRIORS FOR TRANSIT PARAMETERS
+   Source: EXOFAST (with Gaia RD3 priors)
+   LD u1: 0.4663
+   LD u2: 0.1887
+
+PRIORS FOR ORBITAL PARAMETERS
+   Source: qlp-s03-faintsearch
+   a/R*: 5.989
+   i: 87.92 deg
+   b: 0.217
+
+OBSERVATION COVERAGE: e-145/i+175; -144.6/+174.5 sigma
+
+ExoFOP-TESS STATUS: All files have been uploaded to ExoFOP-TESS.
+
+OBSERVING AND AIJ-EVALUATION NOTES:
+Six images (#174, 175, 187, 193, 194, & 217) were removed in which apertures missed some of their designated assignments...WCS incorrectly solved...leaving 43 for AIJ evaluation.
+* All stars were defocused into large, distorted donuts.
+
+Image shift statistics:
+             stdev.(arc-seconds): 0.5064 in X and 0.9442 in Y
+             max. deviation (pixels): 4.7536 in X and 8.6685 in Y
+
+PREVIOUS TTF COMMENTS: VPC+ VPC+ qlp-s03-faintsearch Sectors:[3, 30]: found in faint-star QLP search; Don Radford observed a full on 20210817 in R and detected an on-time 24 ppt event in an uncontaminated 8.8" target aperture. TG Tan observed a full on 20210906 in B and detected a ~10 min early, ~24 ppt event in a 7.8" uncontaminated aperture. No more observations needed, except for **full-only** multi-band or alternating filter high precision (<1.0 ppt/5 min) data in at least blue (U, u', B, g') *and* very red (zp, zs, Y) to refine the check on chromaticity.

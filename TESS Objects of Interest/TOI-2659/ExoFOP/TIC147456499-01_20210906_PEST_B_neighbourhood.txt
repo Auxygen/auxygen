@@ -1,0 +1,42 @@
+# Neighbourhood and NEB Clearance Report
+
+# Stars within 2.5 arcmin of TIC147456499-01 (TOI 2659.01), star-id #17
+# Magnitudes are referenced to COMP = 11.8
+# Fluxes are referenced to VAR = 1000
+# dmag is referenced to VAR, dist is from target.
+# Exposure time (s) = 120.000
+
+# For stars within 2.5' of VAR, report the following as well:
+# norm SD for 120s, NEB depth calculated using dmag-0.5mag, allowing for any diff to TESS dmag.
+# Expected transit depth = 22.3ppt or 24.486mmag
+# Threshold dmag = 4.1 + 0.5 = 4.6
+# Formula:  NEBdepth = TESSdepth/(10**(-(dmag-dmag_buf)/2.5))
+
+#id	RA (J2000) 	DEC (J2000) 	flux 	mag	SD	valid	dmag	dist	norm	NEB	B/A	Disposition
+							(mag)	points			SD(A)	depth(B)		
+											(ppt)	(ppt)		
+
+17	2h44m14.51s	-40d11m49.6s	1000	13.86	0.022	166	0.0	0'0"	20	14	0.7	Target star
+
+#**************************************************************************************
+# Gaia star check section
+
+# Checking for stars within dmag = 4.1 plus 'slack'.
+# This slack = 0.5 for r. If r not found use g with an additional 0.5
+
+# err_d is the angular separation between the detected star and the Gaia star.
+# err_gm is the delta between the measured mag of the detected star and Gaia g mag.
+#**************************************************************************************
+
+#Gaia id		RA (J2000) 	DEC (J2000) 	r_mag 	g_mag	dist	err_d	err_gm	Disposition
+
+4949266466460402048	2h44m14.59s	-40d11m49.3s	12.7	13.3	0'0"	0.94"	-0.5	== star #17 (Target)
+4949265573107204864	2h44m15.39s	-40d13m34.2s	16.2	16.8	1'45"	 	 	***Not Cleared - not detected***
+4949265951064327296	2h44m08.06s	-40d13m14.4s	16.4	17.4	1'53"	 	 	***Not Cleared - not detected***
+
+#**************************************************************************************
+
+# Total Gaia stars = 2; Total not detected = 2; Percentage = 100.0%
+# Measured target mag is 0.5 dimmer than Gaia g_mag.
+# May need to be taken into account in threshold dmag if target is saturated.
+# Max contrast: 0.0 mag within 150.0"

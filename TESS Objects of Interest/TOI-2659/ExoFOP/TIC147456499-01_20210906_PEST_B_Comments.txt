@@ -1,0 +1,26 @@
+Photometric follow-up: TIC 147456499-01 (TOI 2659.01) on UT2021-09-06 from PEST in B
+
+TG Tan observed a full on 20210906 in B and detected a ~10 min early, ~24ppt event in a 7.8" uncontaminated aperture.
+
+Objectives: QLP S30 VPC: found in faint-star QLP search; Don Radford observed a full on 20210817 in R and detected an on-time 24 ppt event in an uncontaminated 8.8" target aperture. The next observation should be a high precision (<1.0 ppt/5 min) full transit in a blue (U, u', B, g') filter to check for chromaticity. Multi-band observations preferred. 
+
+Comments: Very large jumps in X position on sensor does not seem to have impacted the LC too much. Airmass and FWHM detrending flattens out the OOT. There is a small gap at egress caused by mis-tracking. 
+
+
+Predicted Tc: 9464.2188  Duration: 108 mins
+Observing time Tc -1.7/+4.6 hrs
+Fitted Tc: 9464.2124; Early by 0.2 hrs (9 mins).
+Fitted duration: 108 mins; Longer by 0 mins.
+Photometry aperture 7.8", FWHM = 6.2", Obs duration 375 mins.
+Target: TIC147456499-01 (TOI 2659.01) (var=star#17);
+Date: 2021-09-06;
+Observatory: PEST;
+Filter: B;
+Exposure time: 120.0s;
+Data file format: BJD(TDB) norm_flux flux_err;
+Ensemble star ids: 4,7,5,3,8,15,11
+
+
+------------------------------------
+TG Tan 
+http://pestobservatory.com/

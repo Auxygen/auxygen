@@ -1,0 +1,18 @@
+#AstroImageJ Saved Apertures
+#Wed Aug 18 10:38:59 EST 2021
+.multiaperture.isrefstar=false,false,false,false,false,false,true,false,true,true,true,false,false,true,true
+.aperture.rback2=17.0
+.multiaperture.yapertures=997.84546,927.4785,955.26306,1195.7412,1275.9337,1113.4172,479.96768,955.9321,1016.9817,781.3925,366.69934,437.2533,1293.1598,780.9558,678.9373
+.aperture.rback1=11.0
+.multiaperture.apfwhmfactor=1.4
+.multiaperture.naperturesmax=1000
+.multiaperture.usevarsizeap=false
+.aperture.radius=6.0
+.multiaperture.raapertures=41.06077083,41.064125,41.03359167,40.92228887,41.23648069,41.22147534,41.12314632,40.88251889,40.85546234,40.9848649,40.98153674,40.95884253,41.10719179,41.52092954,41.11964065
+.aperture.backplane=false
+.multiaperture.centroidstar=true,false,false,true,true,true,true,true,true,true,true,true,true,true,true
+.aperture.removebackstars=true
+.multiaperture.xapertures=1036.3724,1048.4844,1100.1289,1251.5314,621.19226,694.0314,1053.96,1392.0375,1428.1807,1240.591,1357.128,1382.147,867.3173,203.82835,1007.56226
+.multiaperture.isalignstar=true,true,true,true,true,true,true,true,true,true,true,true,true,true,true
+.multiaperture.absmagapertures=12.732,16.289,16.448,99.999,99.999,99.999,99.999,99.999,99.999,99.999,99.999,99.999,99.999,99.999,99.999
+.multiaperture.decapertures=-40.19701472,-40.22616583,-40.22065444,-40.14182359,-40.04375434,-40.1154662,-40.40322496,-40.25105266,-40.2307779,-40.30396984,-40.47982156,-40.45459722,-40.06300734,-40.19434223,-40.31984114
