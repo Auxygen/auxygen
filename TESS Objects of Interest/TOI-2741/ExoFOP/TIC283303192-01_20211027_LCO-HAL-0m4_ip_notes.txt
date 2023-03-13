@@ -1,0 +1,42 @@
+TIC 283303192-01 (TOI-2741.01) on UT2021.10.27 from LCO-HAL-0m4 in ip
+
+1.  GOAL(S): 
+    (1) Confirm event on target using a red (ip) filter. 
+    (2) Check field for NEBs within 2.5'.
+
+2.  INTERPRETATION OF RESULTS:
+                  
+    - An on-time, 12.8 ppt depth transit was detected on the target star using a 7.0 px target aperture (RMS for the model 
+      fit = 5.5 ppt). The observed ingress depth equaled the predicted depth (12.9 ppt).  The model fit data were detrended
+      for AIRMASS. 
+
+    - The 7.0 px (3.99") target aperture excludes most of the flux from the 5" T2 neighbor (dmag = 2.72).
+       
+    - ExoFOP-TESS Data (20210819 TESS Project) were the source for the User-Specified Parameters: P = 2.988 days and R*/Rsun = 1.40; 
+      and the Priors for the Transit Parameters: LDu1 = 0.206 and LDu2 = 0.317. 
+
+    - Fifty-eight of the 67 Gaia stars within 2.5' were cleared using the NEB Check Tool.  The remaining nine were cleared by inspection
+      of their NEB Depth Plots and by virtue of their relative dimness and separation from T1.
+        
+    - CONCLUSIONS:
+      (1) An on-time, 12.8 ppt depth transit was detected on the target star.
+      (2) The field was cleared to 2.5' during the observation period.
+                                      
+3.  APERTURE RADIUS: 7.0 px (3.99").  
+                     
+4.  PREDICTED TRANSIT CENTER TIME: 2459515.0655
+    OBSERVED TRANSIT CENTER TIME:  2459515.0659 (On-time)
+    OBSERVATION COVERAGE: e-271/i+228; -271/+228 
+
+5.  FWHM: 6.40 px (3.66")
+
+6.  ExoFOP-TESS STATUS: All files have been uploaded to ExoFOP-TESS.
+
+7.  OBSERVING NOTES:
+
+    Image shift statistics:
+             stdev.(arc-seconds): 0.3391 in X and 0.5016 in Y
+             max. deviation (pixels): 5.7641 in X and 8.2164 in Y
+
+8. PREVIOUS TTF COMMENTS: QLP S33 PC: found in faint-star QLP search; Confirm event on target and/or check field for NEBs within 2.5' using a red 
+   (rp, R, ip, I, z) filter. 
