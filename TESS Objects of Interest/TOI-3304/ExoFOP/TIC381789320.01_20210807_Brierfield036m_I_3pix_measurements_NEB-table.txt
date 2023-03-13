@@ -1,0 +1,206 @@
+                       TFOP NEB Search Table for:
+
+           381789320.01_20210805_Brierfield036m_I_3pix_measurements.xls
+
+                 Created by AIJ macro Revision 2.25
+                          on 2021-08-09
+          ------------------------------------------------
+                    Pixel Scale (arc-seconds/pixel): 1.47
+                    Predicted ingress time: 0.96875000
+                    Predicted egress time:  1.09375001
+                    Target predicted depth: 7.1
+                    Target Star: T1
+                    Search Radius: 2.5
+                    Duration of Observation (min.): 528.1
+                    Number of Images: 114
+                    Average Exposure Plus Delay Time (sec.): 277.9
+                    Cadence Requested When Calculating RMS (sec.): 650.0
+                    Binning Used When Calculating RMS: 2
+                    Average Aperture Radius: 3.0 (pixels); 4.4 (arc-seconds)
+                    Dmag correction factor to account for difference with TESS band:-0.5
+
+      Separation             Uncorr.
+Star  from target  PA (deg.)  dmag   RMS(ppt)  NEBdepth(ppt)  NEBdepth/RMS    Disposition
+ T2      0'06"       NA      2.009    247.12           28.5       0.1      ***Not Cleared***
+ T3      0'23"       NA      5.328     75.64          605.8       8.0      Cleared
+ T4      0'24"       NA      5.172     98.23          525.1       5.3      Cleared
+ T5      0'28"       NA      3.981     31.36          175.2       5.6      Cleared
+ T6      0'29"       NA      2.851     36.66           61.9       1.7      ***Not Cleared***
+ T7      0'27"       NA      5.390    102.10          641.4       6.3      Cleared
+ T8      0'31"       NA      4.414    154.32          261.1       1.7      ***Not Cleared***
+ T9      0'33"       NA      4.345     50.09          245.1       4.9      Likely cleared
+T10      0'33"       NA      6.226    175.40         1385.5       7.9      Cleared-too faint
+T11      0'39"       NA      4.741     71.17          352.8       5.0      Likely cleared
+T12      0'40"       NA      4.929     89.59          419.5       4.7      Likely cleared
+T13      0'41"       NA      5.525     93.72          726.6       7.8      Cleared
+T14      0'39"       NA      4.507     58.47          284.4       4.9      Likely cleared
+T15      0'42"       NA      5.500     86.24          709.7       8.2      Cleared
+T16      0'42"       NA      5.691    103.08          846.8       8.2      Cleared
+T17      0'46"       NA      3.588    109.92          122.1       1.1      ***Not Cleared***
+T18      0'48"       NA      3.286     24.45           92.4       3.8      Likely cleared
+T19      0'50"       NA      5.191     74.60          534.1       7.2      Cleared
+T20      0'51"       NA      2.214    200.28           34.4       0.2      ***Not Cleared***
+T21      0'52"       NA      1.266     38.97           14.4       0.4      ***Not Cleared***
+T22      0'53"       NA      1.421     24.42           16.6       0.7      ***Not Cleared***
+T23      0'55"       NA      3.552     43.77          118.0       2.7      ***Not Cleared***
+T24      0'55"       NA      4.098     55.41          195.2       3.5      Likely cleared
+T25      0'55"       NA      5.325    156.15          604.2       3.9      Likely cleared
+T26      0'56"       NA      5.932    142.57         1056.9       7.4      Cleared-too faint
+T27      0'57"       NA      3.933     50.01          167.7       3.4      Likely cleared
+T28      0'56"       NA      1.263    382.74           14.3       0.0      ***Not Cleared***
+T29      0'55"       NA      3.871     34.26          158.3       4.6      Likely cleared
+T30      0'57"       NA      4.578    122.75          303.8       2.5      ***Not Cleared***
+T31      0'56"       NA      1.954    377.97           27.1       0.1      ***Not Cleared***
+T32      1'01"       NA      5.728    113.46          875.7       7.7      Cleared
+T33      0'59"       NA      4.098     91.76          195.1       2.1      ***Not Cleared***
+T34      0'59"       NA     -0.868     27.09            2.0       0.1      ***Not Cleared***
+T35      1'03"       NA      2.727     45.25           55.2       1.2      ***Not Cleared***
+T36      1'01"       NA      4.223     35.14          219.0       6.2      Cleared
+T37      1'02"       NA      2.718     26.95           54.8       2.0      ***Not Cleared***
+T38      1'02"       NA      5.317     93.16          599.9       6.4      Cleared
+T39      1'03"       NA      2.704     23.30           54.1       2.3      ***Not Cleared***
+T40      1'11"       NA      5.596    107.30          775.7       7.2      Cleared
+T41      1'09"       NA      5.240     92.25          558.9       6.1      Cleared
+T42      1'10"       NA      5.320     94.98          601.7       6.3      Cleared
+T43      1'11"       NA      4.722    119.36          346.7       2.9      ***Not Cleared***
+T44      1'12"       NA      4.087     78.39          193.2       2.5      ***Not Cleared***
+T45      1'12"       NA      4.828    111.55          382.5       3.4      Likely cleared
+T46      1'16"       NA      5.062     65.27          474.2       7.3      Cleared
+T47      1'16"       NA      4.492    105.61          280.5       2.7      ***Not Cleared***
+T48      1'17"       NA      4.296     63.77          234.3       3.7      Likely cleared
+T49      1'15"       NA      4.560     43.89          298.7       6.8      Cleared
+T50      1'18"       NA      3.000     98.10           71.0       0.7      ***Not Cleared***
+T51      1'16"       NA      4.110     39.04          197.4       5.1      Cleared
+T52      1'17"       NA      3.758     31.37          142.7       4.5      Likely cleared
+T53      1'20"       NA      5.637    128.85          805.5       6.3      Cleared
+T54      1'20"       NA      4.011     37.57          180.2       4.8      Likely cleared
+T55      1'19"       NA      2.690     57.28           53.4       0.9      ***Not Cleared***
+T56      1'21"       NA      5.294     78.58          587.2       7.5      Cleared
+T57      1'22"       NA      5.727    149.92          875.1       5.8      Cleared
+T58      1'21"       NA      5.127     92.51          503.6       5.4      Cleared
+T59      1'21"       NA      5.513     90.33          718.6       8.0      Cleared
+T60      1'23"       NA      4.823     95.37          380.8       4.0      Likely cleared
+T61      1'25"       NA      5.690    113.10          846.1       7.5      Cleared
+T62      1'26"       NA      4.034     42.31          184.0       4.3      Likely cleared
+T63      1'27"       NA      4.850     60.82          390.3       6.4      Cleared
+T64      1'24"       NA      5.914    138.30         1039.3       7.5      Cleared-too faint
+T65      1'28"       NA      5.193    127.21          535.2       4.2      Likely cleared
+T66      1'27"       NA      5.522     98.75          724.8       7.3      Cleared
+T67      1'25"       NA      4.495     47.74          281.3       5.9      Cleared
+T68      1'29"       NA      5.439    108.19          671.1       6.2      Cleared
+T69      1'29"       NA      1.424     55.14           16.6       0.3      ***Not Cleared***
+T70      1'28"       NA      4.293     42.48          233.7       5.5      Cleared
+T71      1'28"       NA      3.748     38.56          141.3       3.7      Likely cleared
+T72      1'31"       NA      5.119    116.45          499.8       4.3      Likely cleared
+T73      1'31"       NA      5.030     75.40          460.5       6.1      Cleared
+T74      1'31"       NA      6.291    158.18         1471.8       9.3      Cleared-too faint
+T75      1'34"       NA      5.974    135.61         1098.7       8.1      Cleared-too faint
+T76      1'33"       NA      5.102     87.06          492.3       5.7      Cleared
+T77      1'33"       NA      4.172     42.11          208.9       5.0      Likely cleared
+T78      1'37"       NA      4.085    113.91          192.8       1.7      ***Not Cleared***
+T79      1'40"       NA      5.004     71.96          449.5       6.2      Cleared
+T80      1'36"       NA      5.871    140.64          999.3       7.1      Cleared
+T81      1'37"       NA      5.597     98.79          776.6       7.9      Cleared
+T82      1'40"       NA      6.045    158.93         1173.3       7.4      Cleared-too faint
+T83      1'41"       NA      3.518     46.13          114.4       2.5      ***Not Cleared***
+T84      1'40"       NA      5.564    111.71          753.3       6.7      Cleared
+T85      1'42"       NA      3.505     25.41          113.0       4.4      Likely cleared
+T86      1'44"       NA      4.421     43.17          262.8       6.1      Cleared
+T87      1'44"       NA      3.446     59.76          107.1       1.8      ***Not Cleared***
+T88      1'46"       NA      4.260     48.69          226.6       4.7      Likely cleared
+T89      1'45"       NA      2.283     26.64           36.7       1.4      ***Not Cleared***
+T90      1'47"       NA      4.513     58.80          286.2       4.9      Likely cleared
+T91      1'48"       NA      5.733    127.48          879.9       6.9      Cleared
+T92      1'46"       NA      2.984    150.45           69.9       0.5      ***Not Cleared***
+T93      1'46"       NA      5.520    130.64          723.4       5.5      Cleared
+T94      1'49"       NA      3.567     68.44          119.7       1.7      ***Not Cleared***
+T95      1'50"       NA      6.294    207.45         1475.1       7.1      Cleared-too faint
+T96      1'50"       NA      2.159    152.28           32.7       0.2      ***Not Cleared***
+T97      1'49"       NA      6.177    163.34         1324.8       8.1      Cleared-too faint
+T98      1'52"       NA      3.458     27.92          108.3       3.9      Likely cleared
+T99      1'52"       NA      0.479     44.87            7.0       0.2      ***Not Cleared***
+T100      1'54"       NA      5.360     92.57          623.9       6.7      Cleared
+T101      1'55"       NA      2.504     37.21           45.0       1.2      ***Not Cleared***
+T102      1'54"       NA      4.381     37.77          253.2       6.7      Cleared
+T103      1'55"       NA      1.596     60.96           19.5       0.3      ***Not Cleared***
+T104      1'53"       NA      5.195     67.40          536.3       8.0      Cleared
+T105      1'56"       NA      5.535    127.99          733.3       5.7      Cleared
+T106      1'56"       NA      7.160    412.17         3276.2       7.9      Cleared-too faint
+T107      1'53"       NA      4.366     65.60          249.8       3.8      Likely cleared
+T108      1'58"       NA      3.111    189.67           78.6       0.4      ***Not Cleared***
+T109      1'59"       NA      3.842     35.78          154.1       4.3      Likely cleared
+T110      1'57"       NA      6.133    182.55         1271.8       7.0      Cleared-too faint
+T111      2'01"       NA      4.791     59.44          369.6       6.2      Cleared
+T112      1'58"       NA      4.051     40.99          186.9       4.6      Likely cleared
+T113      2'02"       NA      5.028     92.68          459.6       5.0      Likely cleared
+T114      2'02"       NA      3.688     82.91          133.8       1.6      ***Not Cleared***
+T115      2'03"       NA      3.933     30.31          167.6       5.5      Cleared
+T116      2'01"       NA      3.983     39.32          175.6       4.5      Likely cleared
+T117      2'05"       NA      3.549    215.80          117.8       0.5      ***Not Cleared***
+T118      2'05"       NA      6.111    141.27         1246.0       8.8      Cleared-too faint
+T119      2'05"       NA      3.405     28.18          103.1       3.7      Likely cleared
+T120      2'06"       NA      4.709     46.25          342.5       7.4      Cleared
+T121      2'06"       NA      4.723     47.01          347.1       7.4      Cleared
+T122      2'06"       NA      2.374     49.04           39.9       0.8      ***Not Cleared***
+T123      2'06"       NA      5.344     96.35          614.7       6.4      Cleared
+T124      2'06"       NA      4.124    170.71          199.8       1.2      ***Not Cleared***
+T125      2'05"       NA      4.042     36.68          185.5       5.1      Cleared
+T126      2'06"       NA      2.391     66.84           40.5       0.6      ***Not Cleared***
+T127      2'08"       NA      6.239    194.98         1402.3       7.2      Cleared-too faint
+T128      2'08"       NA      1.034     60.17           11.6       0.2      ***Not Cleared***
+T129      2'07"       NA      5.843    121.08          974.2       8.0      Cleared
+T130      2'07"       NA      4.356     44.35          247.5       5.6      Cleared
+T131      2'07"       NA      5.610    134.92          785.6       5.8      Cleared
+T132      2'11"       NA      5.075     69.78          480.1       6.9      Cleared
+T133      2'10"       NA      5.368    103.36          628.7       6.1      Cleared
+T134      2'13"       NA      2.764    378.50           57.2       0.2      ***Not Cleared***
+T135      2'10"       NA      4.365     44.21          249.7       5.6      Cleared
+T136      2'11"       NA      5.148     74.86          513.4       6.9      Cleared
+T137      2'14"       NA      4.161     66.73          206.9       3.1      Likely cleared
+T138      2'13"       NA      5.053    140.77          470.4       3.3      Likely cleared
+T139      2'18"       NA      3.863     64.20          157.2       2.4      ***Not Cleared***
+T140      2'18"       NA      4.916     72.21          414.6       5.7      Cleared
+T141      2'17"       NA      5.784    130.54          922.5       7.1      Cleared
+T142      2'16"       NA      4.602    100.35          310.6       3.1      Likely cleared
+T143      2'20"       NA      4.525     41.59          289.1       7.0      Cleared
+T144      2'18"       NA      2.063     22.82           29.9       1.3      ***Not Cleared***
+T145      2'20"       NA      2.200    122.21           34.0       0.3      ***Not Cleared***
+T146      2'20"       NA      3.662     68.04          130.7       1.9      ***Not Cleared***
+T147      2'20"       NA      4.259     42.94          226.4       5.3      Cleared
+T148      2'23"       NA      4.250     62.25          224.5       3.6      Likely cleared
+T149      2'20"       NA      5.511     86.68          717.2       8.3      Cleared
+T150      2'22"       NA      5.605     95.28          782.1       8.2      Cleared
+T151      2'23"       NA      4.148     79.32          204.4       2.6      ***Not Cleared***
+T152      2'21"       NA      5.581    119.86          765.3       6.4      Cleared
+T153      2'23"       NA      6.497    251.21         1779.1       7.1      Cleared-too faint
+T154      2'22"       NA      4.416    112.64          261.6       2.3      ***Not Cleared***
+T155      2'22"       NA      0.288     23.48            5.8       0.2      ***Not Cleared***
+T156      2'23"       NA      0.696     24.99            8.5       0.3      ***Not Cleared***
+T157      2'25"       NA      1.576    118.46           19.1       0.2      ***Not Cleared***
+T158      2'22"       NA      4.280     38.99          230.8       5.9      Cleared
+T159      2'22"       NA      6.110    160.28         1245.5       7.8      Cleared-too faint
+T160      2'26"       NA      6.007    167.19         1132.7       6.8      Cleared-too faint
+T161      2'27"       NA      6.012    159.06         1138.1       7.2      Cleared-too faint
+T162      2'28"       NA      5.811    171.37          945.5       5.5      Cleared
+T163      2'27"       NA      5.221    102.65          549.2       5.4      Cleared
+T164      2'26"       NA      3.822    311.50          151.4       0.5      ***Not Cleared***
+T165      2'26"       NA      3.765     32.47          143.6       4.4      Likely cleared
+T166      2'27"       NA      1.100     84.77           12.3       0.1      ***Not Cleared***
+T167      2'25"       NA      0.479     81.62            7.0       0.1      ***Not Cleared***
+T168      2'27"       NA      4.599     68.77          309.6       4.5      Likely cleared
+T169      2'27"       NA      4.798     51.14          371.9       7.3      Cleared
+T170      2'27"       NA      5.953    144.15         1077.5       7.5      Cleared-too faint
+T171      2'29"       NA      3.304    384.59           93.9       0.2      ***Not Cleared***
+T172      2'28"       NA      6.147    163.04         1288.0       7.9      Cleared-too faint
+T183      0'02"       NA      0.059     40.28            4.7       0.1      ***Not Cleared***
+
+Possible dispositions of the star being the source of the target predicted depth:
+   Likely cleared (NEBdepth/RMS is between 3 and 5)
+   Cleared (NEBdepth/RMS is >= 5)
+   Cleared-too faint (NEBdepth >= 1000ppt)
+   ***Not Cleared-flux too low*** (weighted average of Source-Sky counts per aperture pixel < 2)
+   ***Not Cleared*** (none of the above conditions are met)
+
+Image shift statistics:
+             stdev.(arc-seconds): 1.1423 in X and 0.7029 in Y
+             max. deviation (pixels): 2.8029 in X and 2.0482 in Y

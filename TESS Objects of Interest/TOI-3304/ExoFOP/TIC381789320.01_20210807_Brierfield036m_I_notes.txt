@@ -1,0 +1,35 @@
+
+Hi Karen 
+
+An Egress plus 60 %, of TIC 381789320.01 (TOI 3304.01)  in the I filter, was performed on 07/08/2021. Using a 7 pixel 10.29 arcsec  aperture, which is contaminated with T2 (TIC 1692177072), a 5.3 dmag, 6 arc sec East close neighbour. The combined T1/T2 target showed a 226 min (0.8 σ) early 9 ppt (Tess predicted 7.1 ppt) transit. 
+
+A 3 pixel, 4.4 arcsec aperture, which excluded >50% of TIC 1692177072 showed an identical lightcurve (depth 9.5ppt) to the 10.29 arcsec curve. A 2 pixel, 2.9 arcsec aperture which largely excludes T2  introduced schematic variation but showed no decrease to the 226 min early transit depth. This suggests the Transit is on the target T1.
+
+A NEB check was performed on the 172 other Gaia stars. Many were formally cleared but also many cross contaminated in this crowded field not formally cleared.
+T6 which is TIC 381789314 (a Tess mag 14.78 star), 29 arcsec SW showed a suggestive 60-90 ppt dip (Not contaminated with any close stars) of longer duration starting at the predicted  ingress time.(unrelated to T1 detection).
+
+Imaging was performed over at total of 514 mins.  RMS .00133.
+ 
+The Comments in TTF were "QLP S13 PC: found in faint-star QLP search; Confirm event on target and/or check field for NEBs within 2.5' using a red (rp, R, ip, I, z) filter."
+
+1. Subject line “TIC 381789320.01 (TOI 3304.01) on  2021.08.07 at Brierfield0.36m in I filter “
+
+2. Uploaded to ExoFOP-Tess.
+
+*114 x 240 sec exposures Bin 2x2 FWHM was 3.86 pixels or  5.66 arcsec (20 images at the end of imaging were discarded with heavy cloud interference)
+*Detrend Parameters x used was  Sky/Pixel_T1 in 7pix curve and X(fitS) in the 3 pix curve.
+
+Image shift statistics:
+             stdev.(arc-seconds): 1.1423 in X and 0.7029 in Y
+             max. deviation (pixels): 2.8029 in X and 2.0482 in Y
+
+
+Cheers
+
+
+Don Radford
+
+
+
+
+
