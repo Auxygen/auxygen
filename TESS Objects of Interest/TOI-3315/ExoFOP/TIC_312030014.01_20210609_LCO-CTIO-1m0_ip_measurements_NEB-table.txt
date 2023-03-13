@@ -1,0 +1,90 @@
+                       TFOP NEB Search Table for:
+
+           TIC_312030014.01_20210609_LCO-CTIO-1m0_ip_measurements.xls
+
+                 Created by AIJ macro Revision 2.23
+                          on 2021-06-14
+          ------------------------------------------------
+                    Pixel Scale (arc-seconds/pixel): 0.39
+                    Predicted ingress time: 0.649
+                    Predicted egress time:  0.849
+                    Target predicted depth: 7.4
+                    Target Star: T1
+                    Search Radius: 2.5
+                    Duration of Observation (min.): 514.0
+                    Number of Images: 232
+                    Average Exposure Plus Delay Time (sec.): 132.9
+                    Cadence Requested When Calculating RMS (sec.): 180.0
+                    Binning Used When Calculating RMS: 1
+                    Average Aperture Radius: 15.0 (pixels); 5.8 (arc-seconds)
+                    Dmag correction factor to account for difference with TESS band:-0.5
+
+      Separation             Uncorr.
+Star  from target  PA (deg.)  dmag   RMS(ppt)  NEBdepth(ppt)  NEBdepth/RMS    Disposition
+ T2      0'23"        234      4.972     72.85          455.2       6.2      Cleared
+ T3      0'25"        104      3.632     18.23          132.4       7.3      Cleared
+ T4      0'33"         27      4.582     47.72          317.6       6.7      Cleared
+ T5      0'33"         55      5.064     78.45          495.3       6.3      Cleared
+ T6      0'34"        207      5.113     73.83          518.2       7.0      Cleared
+ T7      0'38"        323      2.800      9.17           61.5       6.7      Cleared
+ T8      0'49"          9      2.297      7.03           38.7       5.5      Cleared
+ T9      0'55"        292      5.551    112.79          775.7       6.9      Cleared
+T10      0'57"        125      5.305     94.51          618.1       6.5      Cleared
+T11      0'59"        141      5.840    128.52         1011.7       7.9      Cleared-too faint
+T12      1'04"        226      1.795     38.11           24.4       0.6      ***Not Cleared***
+T13      1'05"        107      5.660    118.26          857.3       7.2      Cleared
+T14      1'06"         54      4.242     30.79          232.4       7.5      Cleared
+T15      1'08"        299      4.333     38.73          252.6       6.5      Cleared
+T16      1'14"        227     -0.121      2.50            4.2       1.7      ***Not Cleared***
+T17      1'16"        221      2.492    238.48           46.3       0.2      ***Not Cleared***
+T18      1'24"        180      5.393    100.28          670.5       6.7      Cleared
+T19      1'28"        213      6.013    169.84         1187.5       7.0      Cleared-too faint
+T20      1'31"        312      3.376     14.57          104.6       7.2      Cleared
+T21      1'32"        146      4.745     51.49          369.0       7.2      Cleared
+T22      1'35"         16      4.350     34.85          256.5       7.4      Cleared
+T23      1'36"        268      4.738     58.06          366.7       6.3      Cleared
+T24      1'39"        173      5.523    107.96          755.6       7.0      Cleared
+T25      1'43"        200      3.891     23.64          168.1       7.1      Cleared
+T26      1'44"         48      5.141     68.90          531.7       7.7      Cleared
+T27      1'44"        231      4.000     28.24          185.9       6.6      Cleared
+T28      1'45"         68      4.464     39.53          285.0       7.2      Cleared
+T29      1'46"        330      2.674      8.71           54.8       6.3      Cleared
+T30      1'46"        274      4.225     30.01          228.7       7.6      Cleared
+T31      1'46"         99      3.014     11.30           74.9       6.6      Cleared
+T32      1'48"        293      5.474    105.18          722.4       6.9      Cleared
+T33      1'51"         17      3.989     27.00          184.0       6.8      Cleared
+T34      1'51"        189      5.530    237.21          760.7       3.2      Likely cleared
+T35      1'54"        140      5.406     95.93          678.5       7.1      Cleared
+T36      1'57"         73      2.259      6.62           37.4       5.7      Cleared
+T37      1'57"         84      5.840    134.84         1012.3       7.5      Cleared-too faint
+T38      1'59"        164      3.806     20.57          155.5       7.6      Cleared
+T39      2'01"        123      2.237     64.61           36.6       0.6      ***Not Cleared***
+T40      2'05"        119     -1.091      2.40            1.7       0.7      ***Not Cleared***
+T41      2'06"         49      3.251     12.61           93.3       7.4      Cleared
+T42      2'07"        241      4.918    129.22          433.1       3.4      Likely cleared
+T43      2'08"         90      3.661     18.77          136.0       7.2      Cleared
+T44      2'09"        244      2.581      8.85           50.3       5.7      Cleared
+T45      2'10"        276      4.481     43.34          289.4       6.7      Cleared
+T46      2'12"         71      4.806     51.07          390.7       7.7      Cleared
+T47      2'14"         32      1.812      5.93           24.8       4.2      Likely cleared
+T48      2'15"        334      1.974      5.93           28.8       4.9      Likely cleared
+T49      2'15"         21      5.351     90.23          645.0       7.1      Cleared
+T50      2'16"         29      3.411    106.97          108.1       1.0      ***Not Cleared***
+T51      2'22"         40     -0.007      3.50            4.6       1.3      ***Not Cleared***
+T52      2'23"        299      3.348     20.32          102.0       5.0      Cleared
+T53      2'24"        344      2.341     42.48           40.3       0.9      ***Not Cleared***
+T54      2'24"         96      4.575     43.73          315.6       7.2      Cleared
+T55      2'26"        130      4.665     46.13          342.9       7.4      Cleared
+T56      2'27"         97      4.518     39.27          299.5       7.6      Cleared
+T57      2'27"        342      2.091      8.78           32.0       3.6      Likely cleared
+
+Possible dispositions of the star being the source of the target predicted depth:
+   Likely cleared (NEBdepth/RMS is between 3 and 5)
+   Cleared (NEBdepth/RMS is >= 5)
+   Cleared-too faint (NEBdepth >= 1000ppt)
+   ***Not Cleared-flux too low*** (weighted average of Source-Sky counts per aperture pixel < 2)
+   ***Not Cleared*** (none of the above conditions are met)
+
+Image shift statistics:
+             stdev.(arc-seconds): 0.3123 in X and 0.1198 in Y
+             max. deviation (pixels): 3.0168 in X and 2.0375 in Y
