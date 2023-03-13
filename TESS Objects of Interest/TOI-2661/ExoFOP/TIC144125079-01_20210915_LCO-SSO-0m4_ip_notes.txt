@@ -1,0 +1,52 @@
+For: Karen Collins, tfopsg1@gmail.com
+TIC 144125079.01 (TOI 2661.01) on UT2021.09.15 from LCO-SSO-0m4 in ip
+
+Hello Karen,
+
+Greg Srdoc analyzed a full (e-227/i+214 min; -113.3/+106.8σ) on UT2021.09.15 in 0m4 ip and detected ~on time, ~10.1 ppt transit on target using 5.1" uncontaminated aperture.
+
+Goal of this observation was to confirm event on target and/or check field for NEBs within 2.5' for TIC 144125079.01 (TOI 2661.01) on UT2021.09.15 in ip filter.
+
+No unusable images removed from the stack.
+A drop in tot_C_cnts just before egress can be observed in covariate curve. Applying Airmass+tot_C_cnts detrend gives transit depth much closer to predicted depth. Airmass only detrend also included.
+Comps stars show some variations in lightcurves. target star lightcurve may be affected by this.
+
+ExoFOP-TESS Data (2021-08-19; TESS Project) was the source for the User-Specified Parameters: Teff(K) = 5606, log(g) = 4.3 and P(d) = 3.6257584.
+EXOFAST Quadratic Limb Darkening for parameters: Linear LD u1 = 0.33062449 and Quad LD u2 = 0.26464431.
+Allowing rest of transit parameters to fit freely resulted in transit model a/R* = 10.8, b = 0.105, i(deg) = 90.
+Observation produced an ~on time (BJD_TDB transit mid-point = 9473.2032), ~10.1 ppt transit (RMS for the model fit = 5.61ppt) with an optimized 9-30-45px aperture.
+With airmass only detrend observation produced  ~14.1 ppt transit (RMS for the model fit = 5.56ppt).
+NEB check clears 6 of 10 stars using 9px aperture. 
+
+Files have been uploaded to ExoFOP-TESS.
+
+Additional observation info:
+Exposure time: 360s
+Focus: 0.0mm
+BJD_TDB predicted transit mid-point: 9473.2032
+Observation coverage: e-227/i+214 min; -113.3/+106.8σ
+Comp stars: C12, C13, C14, C15, C19, C21
+FWHM = 2.36"
+
+Table report for NEB check:
+Pixel Scale (arc-seconds/pixel): 0.57
+Predicted ingress time: 0.14460000
+Predicted egress time:  0.26190001
+Target predicted depth: 10.4
+Target Star: T1
+Search Radius: 2.5
+Duration of Observation (min.): 271.4
+Number of Images: 44
+Average Exposure Plus Delay Time (sec.): 370.1
+Cadence Requested When Calculating RMS (sec.): 180.0
+Binning Used When Calculating RMS: 1
+Average Aperture Radius: 9.0 (pixels); 5.1 (arc-seconds)
+Dmag correction factor to account for difference with TESS band:-0.5
+Image shift statistics:
+stdev.(arc-seconds): 1.184 in X and 1.1148 in Y
+max. deviation (pixels): 8.4828 in X and 8.1054 in Y
+
+TTF Description: "QLP S31 PC: found in faint-star QLP search; Confirm event on target and/or check field for NEBs within 2.5' using a red (rp, R, ip, I, z) filter."
+Notes from Exo-FOP: "found in faint-star QLP search"
+
+Greg
