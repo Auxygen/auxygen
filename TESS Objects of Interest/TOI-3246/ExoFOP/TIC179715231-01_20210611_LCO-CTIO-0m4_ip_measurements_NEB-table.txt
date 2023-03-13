@@ -1,0 +1,79 @@
+                       TFOP NEB Search Table for:
+
+           measurements.tbl
+
+                 Created by AIJ macro Revision 2.25
+                          on 2022-01-31
+          ------------------------------------------------
+                    Pixel Scale (arc-seconds/pixel): 0.57
+                    Predicted ingress time: 0.51100000
+                    Predicted egress time:  0.65690001
+                    Target predicted depth: 11.5
+                    Target Star: T1
+                    Search Radius: 2.5
+                    Duration of Observation (min.): 389.3
+                    Number of Images: 123
+                    Average Exposure Plus Delay Time (sec.): 189.9
+                    Cadence Requested When Calculating RMS (sec.): 180.0
+                    Binning Used When Calculating RMS: 1
+                    Average Aperture Radius: 8.0 (pixels); 4.6 (arc-seconds)
+                    Dmag correction factor to account for difference with TESS band:-0.5
+
+      Separation             Uncorr.
+Star  from target  PA (deg.)  dmag   RMS(ppt)  NEBdepth(ppt)  NEBdepth/RMS    Disposition
+ T2      0'12"       NA      3.668   1067.36          212.7       0.2      ***Not Cleared***
+ T3      0'28"       NA      5.229    279.43          896.3       3.2      Likely cleared
+ T4      0'30"       NA      3.732     82.89          225.8       2.7      ***Not Cleared***
+ T5      0'57"       NA      3.479     55.04          178.8       3.2      Likely cleared
+ T6      1'04"       NA      3.259     49.09          146.0       3.0      ***Not Cleared***
+ T7      1'06"       NA      2.605     28.90           79.9       2.8      ***Not Cleared***
+ T8      1'14"       NA      4.062     88.20          305.7       3.5      Likely cleared
+ T9      1'15"       NA      4.972    197.15          707.3       3.6      Likely cleared
+T10      1'15"       NA      4.202    103.66          347.8       3.4      Likely cleared
+T11      1'21"       NA      3.175     41.16          135.1       3.3      Likely cleared
+T12      1'26"       NA      2.923     35.71          107.1       3.0      ***Not Cleared***
+T13      1'27"       NA      4.415    111.42          423.3       3.8      Likely cleared
+T14      1'29"       NA      5.307    342.35          963.1       2.8      ***Not Cleared***
+T15      1'32"       NA      5.445    255.48         1093.0       4.3      Cleared-too faint
+T16      1'36"       NA      4.886    188.14          653.1       3.5      Likely cleared
+T17      1'46"       NA      4.683    157.27          541.8       3.4      Likely cleared
+T18      1'48"       NA      4.179    103.81          340.6       3.3      Likely cleared
+T19      1'49"       NA     15.000    349.04            N/A       N/A      ***Not Cleared-flux too low***
+T20      1'50"       NA      3.867     85.96          255.7       3.0      ***Not Cleared***
+T21      1'52"       NA      5.931    504.72         1710.1       3.4      Cleared-too faint
+T22      1'57"       NA      5.275    324.90          934.7       2.9      ***Not Cleared***
+T23      1'58"       NA      5.268    246.94          928.4       3.8      Likely cleared
+T24      1'58"       NA      4.521    122.48          466.7       3.8      Likely cleared
+T25      1'59"       NA      2.620     26.32           81.0       3.1      Likely cleared
+T26      2'00"       NA      3.205     40.20          138.9       3.5      Likely cleared
+T27      2'00"       NA      4.198    115.72          346.7       3.0      ***Not Cleared***
+T28      2'02"       NA      3.317     42.91          154.0       3.6      Likely cleared
+T29      2'02"       NA      5.757    496.61         1456.5       2.9      Cleared-too faint
+T30      2'07"       NA      4.370    117.95          406.1       3.4      Likely cleared
+T31      2'05"       NA      5.243    222.83          907.6       4.1      Likely cleared
+T32      2'03"       NA      3.290     45.12          150.2       3.3      Likely cleared
+T33      2'11"       NA      5.208    226.78          878.6       3.9      Likely cleared
+T34      2'11"       NA      4.086     96.16          312.7       3.3      Likely cleared
+T35      2'12"       NA      4.884    215.54          652.3       3.0      Likely cleared
+T36      2'14"       NA      4.987    192.48          717.1       3.7      Likely cleared
+T37      2'16"       NA      2.874     34.93          102.4       2.9      ***Not Cleared***
+T38      2'17"       NA      3.774     68.01          234.6       3.4      Likely cleared
+T39      2'20"       NA      3.597     57.30          199.3       3.5      Likely cleared
+T40      2'19"       NA      5.232    271.02          898.8       3.3      Likely cleared
+T41      2'21"       NA      3.256     41.14          145.6       3.5      Likely cleared
+T42      2'22"       NA      2.337     19.93           62.5       3.1      Likely cleared
+T43      2'21"       NA      3.255     41.07          145.4       3.5      Likely cleared
+T44      2'22"       NA      4.349    116.33          398.4       3.4      Likely cleared
+T45      2'22"       NA      0.802      7.11           15.2       2.1      ***Not Cleared***
+T46      2'25"       NA      3.777     71.33          235.3       3.3      Likely cleared
+
+Possible dispositions of the star being the source of the target predicted depth:
+   Likely cleared (NEBdepth/RMS is between 3 and 5)
+   Cleared (NEBdepth/RMS is >= 5)
+   Cleared-too faint (NEBdepth >= 1000ppt)
+   ***Not Cleared-flux too low*** (weighted average of Source-Sky counts per aperture pixel < 2)
+   ***Not Cleared*** (none of the above conditions are met)
+
+Image shift statistics:
+             stdev.(arc-seconds): 0.4034 in X and 0.5989 in Y
+             max. deviation (pixels): 3.5859 in X and 8.141 in Y

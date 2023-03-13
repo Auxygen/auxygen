@@ -1,0 +1,53 @@
+TIC 179715231-01 (TOI-3246.01) on UT2021.06.11 from LCO-CTIO-0m4 in ip
+
+Rick Schwarz/LCO-CTIO-0m4 analyzed a full  on 20210611 in ip and detected a 8 min (0.03σ) late ~10 ppt v-shaped 
+transit using a uncontaminated 4.6" target aperture and cleared 45/45 neighbors.
+
+APERTURE RADIUS: 4.6" (8 px).  
+TYPICAL FWHM: 1.8" 
+PREDICTED Tc: 9377.5839
+MEASURED Tc:  9377.5893 (8 min [0.03σ] late)
+NEBCHECK STARS NOT CLEARED: 12/45 - Gaia stars 2, 4, 6, 7, 12, 14, 19, 20, 22, 27, 37 & 45.  All 12 were cleared via 
+inspection of their NEB Depth Plots, and by virtue of their relative dimness and separation from T1.  Final result: 
+45/45 neighbors cleared.
+
+
+GOAL(S): Confirm event on target and check field for NEBs within 2.5' using a red (ip) filter. 
+PREDICTED DEPTH: 11.5 ppt
+OBSERVED DEPTH: ~10 ppt 
+RMS OF MODEL FIT: 2.8 ppt
+PREDICTED DURATION: 210 min
+OBSERVED DURATION: 210 min
+
+DETRENDING PARAMETER(S): BJD_TDB
+                  
+USER-SPECIFIED PARAMETERS 
+   Source: ExoFOP-TESS Data (TESS Project 20211029)
+   P: 4.318
+   R*/Rsun: 1.25 
+
+PRIORS FOR TRANSIT PARAMETERS 
+   Source: EXOFAST  
+   LDu1: 0.301
+   LDu2: 0.280
+
+PRIORS FOR ORBITAL PARAMETERS
+   Source: Delivered Star Report qlp-s11-faintsearch 
+   a/R*: 5.7973
+   b: 0.9671
+   i: 80.3973 deg
+                                            
+OBSERVATION COVERAGE: e-249/i+351; -1.1/+1.5σ
+
+ExoFOP-TESS STATUS: All files have been uploaded to ExoFOP-TESS.
+
+OBSERVING NOTES:
+
+The first 12 images in the original sequence of 135 were excessively noisy, and were removed.  Final stack = 123 images.
+
+Image shift statistics:
+             stdev.(arc-seconds): 0.4034 in X and 0.5989 in Y
+             max. deviation (pixels): 3.5859 in X and 8.141 in Y
+
+PREVIOUS TTF COMMENTS: QLP S11 PC: V-shaped; found in faint-star QLP search; Confirm event on target and/or 
+check field for NEBs within 2.5' using a red (rp, R, ip, I, z) filter. 
