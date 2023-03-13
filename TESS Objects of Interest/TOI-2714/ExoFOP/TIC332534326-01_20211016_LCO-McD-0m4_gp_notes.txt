@@ -1,0 +1,55 @@
+TIC 332534326-01 (TOI-2714.01) on UT2021.10.16 from LCO-McD-0m4 in gp
+
+Rick Schwarz/LCO-McD-0m4 analyzed a full on 20211016 in gp and detected an 11 min (5.5σ) early 
+~10 ppt transit using an uncontaminated 6.8" target aperture.
+
+APERTURE RADIUS: 6.8" (12 px).
+PREDICTED Tc: 9503.8671
+MEASURED Tc:  9503.8593 (11 min [5.5σ] early)
+NEBCHECK STARS NOT CLEARED: NA
+COMMENTS: There was noticeable reduction in transparency (evidenced by the decrease in tot_C_cnts) during 
+a portion of the in-transit period.
+
+
+GOAL(S): Perform a a high-precision (<1.0 ppt/5 min) full transit in a blue (gp) filter to check chromaticity. 
+
+PREDICTED DEPTH: 10.6 ppt
+OBSERVED DEPTH: 10.7 ppt 
+RMS OF MODEL FIT: 5.2 ppt
+PREDICTED DURATION: 179 min
+OBSERVED DURATION: 179
+
+DETRENDING PARAMETER(S): Sky/Pixel_T1
+                  
+USER-SPECIFIED PARAMETERS 
+   Source: ExoFOP-TESS Data (TESS Project 20211029)
+   P: 2.499
+   R*/Rsun: 1.21 
+
+PRIORS FOR TRANSIT PARAMETERS 
+   Source: EXOFAST
+   LDu1: 0.578
+   LDu2: 0.204
+
+PRIORS FOR ORBITAL PARAMETERS
+   Source: Delivered Star Report qlp-s05-faintsearch 
+   a/R*: 6.8954
+   b: 0.1935
+   i: 88.3918 deg
+                                            
+OBSERVATION COVERAGE: e-238/i+232; -119/+116 σ
+
+ExoFOP-TESS STATUS: All files have been uploaded to ExoFOP-TESS.
+
+OBSERVING NOTES:
+
+Of the original stack of 57 images, Image No.25 was excessively noisy, and was deleted.  Final stack = 56 images.
+
+Image shift statistics:
+             stdev.(arc-seconds): 0.6543 in X and 0.6067 in Y
+             max. deviation (pixels): 4.6344 in X and 4.8053 in Y
+
+PREVIOUS TTF COMMENTS: QLP S31 VPC: found in faint-star QLP search; K. Barkaoui analyzed a full on 20211010 
+in 0m4 ip and detected an on-time ~10 ppt transit in uncontaminated 7.4" target aperture. The next observation 
+should be a high precision (<1.0 ppt/5 min) full transit in a blue (U, u', B, g') filter to check chromaticity. 
+Multi-band observations preferred. 
