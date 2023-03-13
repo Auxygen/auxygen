@@ -1,0 +1,42 @@
+For tel11/T1_ap2.txt fitting 2 DC offsets
+For tel12/T1_ap2.txt fitting 2 DC offsets
+For tel13/T1_ap2.txt fitting 2 DC offsets
+For tel14/T1_ap2.txt fitting 2 DC offsets
+For tel16/T1_ap2.txt fitting 2 DC offsets
+For tel17/T1_ap2.txt fitting 2 DC offsets
+No of data points = 1861
+Iteration 0 0.009084070476486543 1845
+Iteration 1 0.009093092734851387 1840
+night 0 chi squared = 3572.35734177224 ndof = 1840
+L-M parameters:
+Phi_0                 -0.012579 +/- 0.000052 
+R_2/R_1                0.279993 +/- 0.001444 
+cosi                   0.034156 +/- 0.000551 
+k_0                   -0.000368 +/- 0.000748 
+m_0                    0.000259 +/- 0.001256 mag
+m_1                   -0.004541 +/- 0.000812 mag
+m_2                   -0.000467 +/- 0.001063 mag
+m_3                   -0.003784 +/- 0.000716 mag
+m_4                    0.000480 +/- 0.000962 mag
+m_5                   -0.004471 +/- 0.000662 mag
+m_6                   -0.000315 +/- 0.000899 mag
+m_7                   -0.003277 +/- 0.000614 mag
+m_8                   -0.000424 +/- 0.001221 mag
+m_9                   -0.004147 +/- 0.000794 mag
+m_10                   0.000569 +/- 0.001164 mag
+m_11                  -0.003274 +/- 0.000755 mag
+s_0                    1.393755 +/- 0.000000 
+i = 88.0426073123 deg
+residual scatter = 0.009093092734851387
+Derived parameters:
+O-C                  -46.9637055 mins
+i                     88.0426073 deg
+a/R_1                 15.6362075 
+b                      0.5340750 
+e                      0.0000000 
+omega                  0.0000000 deg
+dur_pri                1.4757611 hr
+dmid                  85.0534065 ppt
+Post-MC chi squared = 1839.0 ndof = 1839
+Bin size = 0.0012413951912799348 = 0.003218610002658373 days = 4.634798403828056 mins
+Tc(0) = 2459386.66527 +/- 0.00014
